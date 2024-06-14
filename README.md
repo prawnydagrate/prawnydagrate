@@ -9,7 +9,7 @@ decision-making by 10 yo me when Python 3.8 was the latest version of the only l
 
 ## My best projects
 [![basencode](https://github-readme-stats.vercel.app/api/pin/?username=Python3-8&repo=basencode&theme=tokyonight)](https://github.com/Python3-8/basencode)  
-A collaboration with [@safwansamsudeen](https://github.com/safwansamsudeen)
+A collaboration with [@safwansamsudeen](https://github.com/safwansamsudeen) and [@arx55](https://github.com/arx55)
 
 [![rschess](https://github-readme-stats.vercel.app/api/pin/?username=Python3-8&repo=rschess&theme=tokyonight)](https://github.com/Python3-8/rschess)  
 My very own chess library for Rust, inspired by [_python-chess_](https://pypi.org/project/chess)
