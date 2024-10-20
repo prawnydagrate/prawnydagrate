@@ -19,4 +19,4 @@ My very own chess library for Rust, inspired by [_python-chess_](https://pypi.or
 Never knew I wrote more Rust than Python but apparently I have
 
 ![Pranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Python3-8&show_icons=true&theme=tokyonight)  
-🥶🥶🥶
+😐
