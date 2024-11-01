@@ -4,8 +4,7 @@ I wrote my first line of code in 2019 when I started learning Python, and fell i
 and most of my projects are just random, useless but interesting ideas that I come up with.
 
 I'm _@prawnydagrate_ on most platforms including YouTube, Discord, Chess.com, and Lichess,
-and [_@puissant.patzer_](https://instagram.com/puissant.patzer) on Instagram. Ignore my GitHub username. That was some stupid
-decision-making by 10 yo me when Python 3.8 was the latest version of the only language I knew.
+and [_@puissant.patzer_](https://instagram.com/puissant.patzer) on Instagram.
 
 ## My best projects
 [![basencode](https://github-readme-stats.vercel.app/api/pin/?username=Python3-8&repo=basencode&theme=tokyonight)](https://github.com/Python3-8/basencode)  
