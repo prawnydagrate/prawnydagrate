@@ -1,7 +1,7 @@
 # Me
-Hi, I'm Pranav. I'm 14 yo, and I play chess and write code. I used to be into speedcubing but I'm not anymore.
-I wrote my first line of code in 2019 when I started learning Python, and fell in love with it. I'm completely self-taught,
-and most of my projects are just random, useless but interesting ideas that I come up with.
+* Pranav, 15 yo he/him
+* writes code (surprisingly)
+* likes math
 
 I'm _@prawnydagrate_ on most platforms including YouTube, Discord, Chess.com, and Lichess,
 and [_@puissant.patzer_](https://instagram.com/puissant.patzer) on Instagram.
